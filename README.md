@@ -8,6 +8,6 @@ Users can select options for the dog from the dropdown menu and the animation wi
 
 ### How to use
 
-Runs the app in the development mode. Open index.html to view it in your browser.
+Run the app in the development mode. Open index.html to view it in your browser.
 
 The page will reload when you make changes.
